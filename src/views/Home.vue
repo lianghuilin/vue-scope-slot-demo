@@ -6,7 +6,7 @@
       <!-- 使用的是Home容器的数据 -->
       <template slot="ranking-header">
         <div style="margin-bottom: 20px; font-size: 22px">
-          2022年东奥运动会，共【{{ rankingList.length }}】个国家
+          2022年冬奥会，共【{{ rankingList.length }}】个国家
         </div>
       </template>
       <!-- 使用的是ranking-list子容器的数据，slot只是提供样式 -->
