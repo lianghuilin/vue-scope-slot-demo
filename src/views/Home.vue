@@ -42,22 +42,22 @@ export default {
         {
           name: '美国（USA）',
           value: 39,
-          ratio: 100,
+          ratio: (39 / 100) * 100,
         },
         {
           name: '中国（CHN）',
           value: 38,
-          ratio: 99,
+          ratio: (38 / 100) * 100,
         },
         {
           name: '日本（JPN）',
           value: 27,
-          ratio: 39 / 27,
+          ratio: (27 / 100) * 100,
         },
         {
           name: '英国（GBR）',
           value: 22,
-          ratio: 39 / 22,
+          ratio: (22 / 100) * 100,
         },
       ],
     };
