@@ -1,5 +1,7 @@
 # vue-slot-demo
 
+![](/demo-desc.png)
+
 ## Project setup
 ```
 yarn install
